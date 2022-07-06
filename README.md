@@ -46,8 +46,7 @@ O Protótipo foi criado pelo FIGMA, abaixo o protótipo Mobile:
 <br>
 
 <div align="center">
-  <img src='./src/img/sobreMobile.png' align="center" alt="prototipos"  width="150px"> 
-  <img src='./src/img/pesquisaMobile.png' align="center" alt="prototipos"  width="200px"> 
+  <img src='https://user-images.githubusercontent.com/97405991/177642114-d66854f1-a56b-4bb9-9da8-8c2be4452ef6.gif' align="center" alt="prototipos"  width="150px"> 
 </div>
 <br>
 Protótipo Desktop:
